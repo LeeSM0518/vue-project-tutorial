@@ -1,13 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark>
-      <v-btn text>
-        Mins Blog
-      </v-btn>
-    </v-app-bar>
-    <v-main>
-      <router-view />
-    </v-main>
+    Hello World!
   </v-app>
 </template>
 
